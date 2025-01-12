@@ -26,7 +26,7 @@ export const clientReviews = [
     id: 1,
     name: 'RAM IT Solutions',
     position: 'CEO',
-    img: 'assets/review1.png',
+    img: 'assets/avatar.svg',
     review:
       'Excellent work, delivered in time. Great skills sets, easy to communicate and would definitely hire him again for future work.',
   },
@@ -43,7 +43,7 @@ export const clientReviews = [
 export const myProjects = [
   {
     title: 'Speetar - Telemedicine Application',
-    desc: 'A telemedicine application that connects patients with doctors for virtual consultations. Speetar is designed to provide a seamless user experience, with features like video calls, chat, and secure payments.',
+    desc: 'A telemedicine application that connects patients with doctors for virtual consultations. Speetar is designed to provide a seamless user experience, with features like video calls, chat, and secure payments. It also offers a range of services, from general consultations to specialist appointments.',
     subdesc:
       'Built with React Native, Speetar is a secure and reliable platform for patients and doctors to connect remotely.',
     href: 'https://speetar.com/',
